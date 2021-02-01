@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/post_actionbar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="horizontal">
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/exit_btn"
+            android:id="@+id/favoriteproduct_exit_btn"
+            android:background="@null" />
+
+        <TextView
+            android:id="@+id/favoriteproduct_title_Tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="내 관심 상품"
+            android:textSize="19dp" />
+
+    </RelativeLayout>
+
+    <GridView
+        android:id="@+id/favoriteproduct_productlistGridView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:numColumns="2"
+        android:verticalSpacing="10dp"
+        android:horizontalSpacing="10dp"
+        android:layout_marginHorizontal="10dp"
+        android:gravity="center">
+    </GridView>
+
+</LinearLayout>
