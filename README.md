@@ -4,6 +4,7 @@
 네이티브 안드로이드 앱을 이용하여 편의점 할인 정보를 제공하는 어플리케이션  
 파이썬을 이용하여 할인 정보를 크롤링 후 db에 저장  
 jsp를 이용하여 안드로이드 앱이 db에 접근할 수 있는 웹 api 구현  
+### 자세한 내용과 구현 내용은 [Docs](https://github.com/lcy960729/Convenience-Store-Infomation-App/tree/main/docs)를 참고
 
 ## 실행 화면
 ### 1.홈화면 
@@ -17,4 +18,3 @@ jsp를 이용하여 안드로이드 앱이 db에 접근할 수 있는 웹 api �
 ### 5.친구 목록 
 ![친구 목록](https://user-images.githubusercontent.com/58020519/106421655-6d866000-64a0-11eb-8e90-0c5d90b7504b.png)
 
-### 자세한 내용과 구현 내용은 [Docs](https://github.com/lcy960729/Convenience-Store-Infomation-App/tree/main/docs)를 참고
