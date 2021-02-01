@@ -17,4 +17,4 @@ jsp를 이용하여 안드로이드 앱이 db에 접근할 수 있는 웹 api �
 ### 5.친구 목록 
 ![친구 목록](https://user-images.githubusercontent.com/58020519/106421655-6d866000-64a0-11eb-8e90-0c5d90b7504b.png)
 
-### 자세한 내용과 구현 내용은 [Docs](https://github.com/lcy960729/Convenience-Store-Infomation-App/blob/master/docs)를 참고
+### 자세한 내용과 구현 내용은 [Docs](https://github.com/lcy960729/Convenience-Store-Infomation-App/tree/main/docs)를 참고
